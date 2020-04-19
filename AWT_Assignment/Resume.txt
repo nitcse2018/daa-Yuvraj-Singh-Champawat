@@ -1,0 +1,73 @@
+-----------------------RESUME-------------------------------
+
+
+
+
+ Personal Details
+
+ First Name :- Yuvraj Singh	 Last Name :- Champawat
+
+ Sex :-  Male
+
+ Date of Birth :-  19/08/99
+
+ Father's Name :-  Sangram Singh
+
+ Email Address :-  18121064@nitdelhi.ac.in
+
+ Mobile Number :-  9587127141
+
+ Postal Address :-  Jodhpur, Rajasthan
+
+ ----------------------------------------------------------------
+
+ EDUCATIONAL DETAILS
+
+ GRADUATION
+
+ Institute name :- National Institute of Technology Delhi
+
+ Branch :- Computer Science and Engineering 
+
+ Semester :- 4
+
+ CGPA :- 8.31
+
+ Interest :- Machine Learning
+
+ Skills :- Deep Learning, NLP, CLTK
+	   Convolutional NN, Tensorflow,
+	   Recurrent NN, Keras
+
+ Hobbies :- Soft Ball
+	    Sociology Reading
+
+
+ HIGH SCHOOL
+
+ School name :- Apna Vidhyalaya Sr. Sec.
+
+ Year :- 2017
+
+ Percentage :- 94.00
+
+
+ INTERMEDIATE
+
+ School name :- St. Anthony's Sr. Sec. School
+
+ Year :- 2015
+
+ Percentage :- 95.17
+
+
+ WORK EXPERIENCE
+
+ Internships :- Machine Learning, Perpule
+
+ Others :- Coordinator, TnP Cell NITD
+
+
+ PROJECT DETAILS
+
+ Projects Details :- Time Series Prediction
