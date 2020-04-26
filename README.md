@@ -12,6 +12,8 @@ on one real time problem based on each individual topics :
 The Folder named, AWT_assignment contains java codes for resume buildder using AWT only. It also contains two snapshots of Resume Window
 and .txt file with entries in it.
 
+The folder named, daa_graph_algorithm contains ppt and pdf of slides on the topic of Graph Algorithm. It also contains a folder named Codes which contains implementation of all algorithms codes written in C++.
+
 Submitted by:
 Yuvraj Singh Champawat
 181210064
